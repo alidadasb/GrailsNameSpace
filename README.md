@@ -1,3 +1,3 @@
 GrailsNameSpace
 ===============
-A sample Grails application demonstraining Controller namespacing. 
+A sample Grails application demonstrating Controller namespacing. 
